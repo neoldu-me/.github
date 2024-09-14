@@ -1,4 +1,4 @@
-# Ne Oldu
+# NEOLDU
 
 Online psychoterapy service based in Azerbaijan.
 
